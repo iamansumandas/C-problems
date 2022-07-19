@@ -29,4 +29,5 @@ int main()
     else
         printf("The grade is 5\n");
     printf("Thank You");
+    return 0;
 }
